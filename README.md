@@ -4,8 +4,8 @@ This project establishes a robust **SQL-based data analytics system** for a data
 
 
 ## Visual Overview
+![Project Steps](docs/ProjectRoadmap.png)
 
-(docs/Project Roadmap.png)
 
 ## Chapters
 
